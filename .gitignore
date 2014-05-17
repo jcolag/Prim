@@ -21,3 +21,14 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Lex and Yacc intermediate detritus
+*.tab.c
+*.tab.h
+*.code.c
+*.output
+lex.*.c
+
+# Gedit backups
+*~
+
