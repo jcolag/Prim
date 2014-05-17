@@ -1,0 +1,4 @@
+Z() -> zero. S ( S ( zero ) )-> two.
+S(zero )->one. S( two) ->three.
+.three?. two ? . one? .
+zero ?..

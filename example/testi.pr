@@ -1,0 +1,8 @@
+Z() -> zero. S ( S ( zero ) )-> two.
+S(zero )->one. S( two) ->three.
+S(S(S(Z())))->num.
+.three?. two ? . one? .
+zero ?..
+P:4;num(zero, one, two, three)->result.
+num?.
+result?.
