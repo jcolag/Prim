@@ -20,6 +20,21 @@ The recommendation may change in the future, but there is a handful of serious o
 
 So, feel free to mess around with it, but don't expect _Prim_ to reveal the secrets of the universe...or work.
 
+Usage
+-----
+
+This _Prim_ distribution comes with both a compiler and an interpreter, run in different ways.
+
+Run the interpreter as expected:
+
+    primi <infile>
+
+The compiler is fussier:
+
+    primc <infile> <outfile>
+
+There is no error checking on the file names, so enter at your own risk.  As mentioned, the compiler produces code for C--, which is only available as a closed-source package, and produces very strange variable names.
+
 The Basics
 ----------
 
