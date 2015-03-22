@@ -12,7 +12,7 @@ The recommendation may change in the future, but there is a handful of serious o
 
  - This code is _very_ old (I can't remember the last time I used Lex and Yacc), and I don't like what I see.  There's a push for one-liners and avoiding braces for control structures as if they're somehow costly.
 
- - The compiler generates code for [Sphinx C--](http://www.goosee.com/cmm/), a sort of high-level assembler that I surely thought was _The Future_^TM^ back in the day.  The sole compiler is DOS/Windows-based and closed-source, so.
+ - The compiler generates code for [Sphinx C--](http://www.goosee.com/cmm/), a sort of high-level assembler that I surely thought was _The Future_ ^TM^ back in the day.  The sole compiler is DOS/Windows-based and closed-source, so.
 
  - There is at least one obvious bug in generating variable names.
 
@@ -66,9 +66,9 @@ Examples
 
 _Prim_ comes with two simple example programs.
 
- - test.pr:  Calculate the numbers zero through three and print them out in reverse order.
+ - `test.pr`:  Calculate the numbers zero through three and print them out in reverse order.
 
- - prime.pr:  Print (_does not calculate_) the first twenty prime numbers.
+ - `prime.pr`:  Print (_does not calculate_) the first twenty prime numbers.
 
-The particularly brand of tediousness in the examples should indicate how much _Prim_ still needs to grow.
+The particular brand of tediousness in the examples should indicate how much _Prim_ still needs to grow.
 
