@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2014 John Colagioia <john@colagioia.net>
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
 #include <string.h>
 #include <malloc.h>
 
